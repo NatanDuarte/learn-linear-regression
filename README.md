@@ -1,4 +1,5 @@
-![some linear data](./assets/synthetic-data.png)
+
+<img src="./assets/synthetic-data.png" style="width:100%; max-height:400px; margin:none; padding:none;" alt="some linear data">
 
 # Learning Linear Regression
 
