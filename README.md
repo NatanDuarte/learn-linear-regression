@@ -27,3 +27,7 @@ A compilation of knowledge about Linear Regression models using synthetic data.
 * scribbr: Multiple Linear Regression | A Quick Guide (Examples) - ([link](https://www.scribbr.com/statistics/multiple-linear-regression/))
 
 * Statistics easily | Linear regression with sci-kit learn - ([link](https://statisticseasily.com/linear-regression-with-scikit-learn/))
+
+* Investopedia | r-squared - ([link](https://www.investopedia.com/terms/r/r-squared.asp))
+
+* Stephen Allwright | interpret mse - ([link](https://stephenallwright.com/interpret-mse/))
